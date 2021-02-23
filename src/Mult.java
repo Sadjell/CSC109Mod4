@@ -10,8 +10,11 @@ public class Mult {
 
 		System.out.println("Enter another number.");
 		int userInput2 = scanner.nextInt();
+<<<<<<< HEAD
 		
 		System.out.println("The product of " + userInput + " and " + userInput2 + " is " + userInput*userInput2 + ".");
+=======
+>>>>>>> b1aa17b00616cdcf46a8d01eebd480946740cd5f
 
 
 	}
