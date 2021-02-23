@@ -8,6 +8,7 @@ public class Mult {
 		Scanner scanner = new Scanner(System.in);
 		int userInput = scanner.nextInt();
 		System.out.println("Enter another number.");
+		int userInput2 = scanner.nextInt();
 
 	}
 
